@@ -2,17 +2,17 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=160&text=PYTHON&fontSize=36&fontColor=0F172A&fontAlignY=50&color=0:C4F135,100:8FD400&desc=L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20%C2%B7%20An%C3%A1lise%20de%20Dados%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20SQL&descAlignY=75&descSize=15&descColor=0F172A"
+src="https://capsule-render.vercel.app/api?type=rect&height=160&text=PYTHON&fontSize=36&fontColor=F7C948&fontAlignY=50&color=0:0B132B,100:1C2541&desc=L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20%C2%B7%20An%C3%A1lise%20de%20Dados%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20SQL&descAlignY=75&descSize=15&descColor=94A3B8"
 />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PYTHON-0F172A?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/NUMPY-0F172A?style=flat-square&logo=numpy&logoColor=013243" />
-<img src="https://img.shields.io/badge/PANDAS-0F172A?style=flat-square&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/PYTHON-0F172A?style=flat-square&logo=python&logoColor=F7C948" />
+<img src="https://img.shields.io/badge/NUMPY-0F172A?style=flat-square&logo=numpy&logoColor=4DABCF" />
+<img src="https://img.shields.io/badge/PANDAS-0F172A?style=flat-square&logo=pandas&logoColor=E70488" />
 <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=336791" />
 <img src="https://img.shields.io/badge/JUPYTER-0F172A?style=flat-square&logo=jupyter&logoColor=F37626" />
-<img src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-0F172A?style=flat-square&labelColor=0F172A&color=16A34A" />
+<img src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-0F172A?style=flat-square&labelColor=0F172A&color=F7C948" />
 
 </div>
 
